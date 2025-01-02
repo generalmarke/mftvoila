@@ -1,0 +1,6 @@
+{
+    "voila": {
+        "template": "lab",
+        "strip_sources": true
+    }
+}
